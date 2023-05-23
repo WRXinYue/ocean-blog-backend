@@ -56,8 +56,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 
 ## 注意事项
 
-1. _项目启动前本机需要启动redis，否则会出现ERRROR_
-2. _测试地址为http://127.0.0.1:8080/test，测试方法全部在UserController中_
+ _测试地址为http://127.0.0.1:8080/test，测试方法全部在UserController中_
 
 <br/>
 <br/>
